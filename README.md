@@ -1,2 +1,2 @@
-# CODESOFT-Rock-Paper-Scissor-
-Python Projects
+# RockPaperScissors
+RockPaperScissors Themed Game
